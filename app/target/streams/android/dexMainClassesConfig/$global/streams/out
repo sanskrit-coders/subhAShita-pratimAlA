@@ -1,0 +1,2 @@
+[0m[[33mwarn[0m] [0mSet mainDexClasses to improve build times:[0m
+[0m[[33mwarn[0m] [0m  dexMainClassesConfig := baseDirectory.value / "copy-of-target/android/intermediates/dex/maindexlist.txt"[0m

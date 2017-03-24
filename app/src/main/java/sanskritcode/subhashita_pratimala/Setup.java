@@ -26,7 +26,7 @@ import java.util.List;
  */
 
 public class Setup extends AppCompatActivity {
-    private static final String index_indexorum = "https://raw.githubusercontent.com/sanskrit-coders/subhAShita-db/master/subhAShitaLists.md";
+    private static final String index_indexorum = "https://raw.githubusercontent.com/sanskrit-coders/subhAShita-db-sanskrit/master/subhAShitaLists.md";
     protected static AsyncHttpClient asyncHttpClient = new AsyncHttpClient();
 
     public static List<String> indexUrls = new ArrayList<String>();

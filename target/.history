@@ -1,0 +1,4 @@
+android:run
+ 
+app/sbt:run
+app/android:run

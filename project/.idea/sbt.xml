@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/.." />
+        <option name="jdk" value="Android API 24 Platform" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-animated-vector-drawable-24.2.1" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-animated-vector-drawable-24.2.1/project" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-appcompat-v7-24.2.1" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-appcompat-v7-24.2.1/project" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-multidex-1.0.1" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-multidex-1.0.1/project" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-support-compat-24.2.1" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-support-compat-24.2.1/project" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-support-core-ui-24.2.1" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-support-core-ui-24.2.1/project" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-support-core-utils-24.2.1" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-support-core-utils-24.2.1/project" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-support-fragment-24.2.1" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-support-fragment-24.2.1/project" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-support-media-compat-24.2.1" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-support-media-compat-24.2.1/project" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-support-v4-24.2.1" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-support-v4-24.2.1/project" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-support-vector-drawable-24.2.1" />
+            <option value="$USER_HOME$/.android/sbt/exploded-aars/com.android.support-support-vector-drawable-24.2.1/project" />
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../app/project" />
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.13" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

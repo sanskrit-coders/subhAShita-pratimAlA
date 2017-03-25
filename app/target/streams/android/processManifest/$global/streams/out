@@ -1,0 +1,114 @@
+[0m[[0mdebug[0m] [0mLoading library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-media-compat-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mLoading library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-appcompat-v7-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mLoading library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-core-ui-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mLoading library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-fragment-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mLoading library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-animated-vector-drawable-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mLoading library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-multidex-1.0.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mLoading library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-vector-drawable-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mLoading library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-compat-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mLoading library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-v4-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mLoading library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-core-utils-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mMerging main manifest /home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mMerging library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-media-compat-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mMerging manifest with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-media-compat-24.2.1] AndroidManifest.xml:17:1-27:12[0m
+[0m[[0mdebug[0m] [0muses-sdk defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging uses-sdk with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-media-compat-24.2.1] AndroidManifest.xml:21:5-23:63[0m
+[0m[[0mdebug[0m] [0mapplication defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging application with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-media-compat-24.2.1] AndroidManifest.xml:25:5-20[0m
+[0m[[0mdebug[0m] [0mMerging library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-appcompat-v7-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mMerging manifest with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-appcompat-v7-24.2.1] AndroidManifest.xml:17:1-27:12[0m
+[0m[[0mdebug[0m] [0muses-sdk defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging uses-sdk with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-appcompat-v7-24.2.1] AndroidManifest.xml:21:5-23:78[0m
+[0m[[0mdebug[0m] [0mapplication defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging application with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-appcompat-v7-24.2.1] AndroidManifest.xml:25:5-20[0m
+[0m[[0mdebug[0m] [0mMerging library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-core-ui-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mMerging manifest with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-core-ui-24.2.1] AndroidManifest.xml:17:1-27:12[0m
+[0m[[0mdebug[0m] [0muses-sdk defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging uses-sdk with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-core-ui-24.2.1] AndroidManifest.xml:21:5-23:58[0m
+[0m[[0mdebug[0m] [0mapplication defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging application with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-core-ui-24.2.1] AndroidManifest.xml:25:5-20[0m
+[0m[[0mdebug[0m] [0mMerging library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-fragment-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mMerging manifest with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-fragment-24.2.1] AndroidManifest.xml:17:1-27:12[0m
+[0m[[0mdebug[0m] [0muses-sdk defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging uses-sdk with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-fragment-24.2.1] AndroidManifest.xml:21:5-23:60[0m
+[0m[[0mdebug[0m] [0mapplication defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging application with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-fragment-24.2.1] AndroidManifest.xml:25:5-20[0m
+[0m[[0mdebug[0m] [0mMerging library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-animated-vector-drawable-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mMerging manifest with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-animated-vector-drawable-24.2.1] AndroidManifest.xml:17:1-24:12[0m
+[0m[[0mdebug[0m] [0muses-sdk defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging uses-sdk with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-animated-vector-drawable-24.2.1] AndroidManifest.xml:20:5-44[0m
+[0m[[0mdebug[0m] [0mapplication defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging application with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-animated-vector-drawable-24.2.1] AndroidManifest.xml:22:5-20[0m
+[0m[[0mdebug[0m] [0mMerging library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-multidex-1.0.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mMerging manifest with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-multidex-1.0.1] AndroidManifest.xml:16:1-19:12[0m
+[0m[[0mdebug[0m] [0muses-sdk defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging uses-sdk with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-multidex-1.0.1] AndroidManifest.xml:18:5-42[0m
+[0m[[0mdebug[0m] [0mMerging library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-vector-drawable-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mMerging manifest with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-vector-drawable-24.2.1] AndroidManifest.xml:17:1-25:12[0m
+[0m[[0mdebug[0m] [0muses-sdk defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging uses-sdk with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-vector-drawable-24.2.1] AndroidManifest.xml:21:5-43[0m
+[0m[[0mdebug[0m] [0mapplication defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging application with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-vector-drawable-24.2.1] AndroidManifest.xml:23:5-20[0m
+[0m[[0mdebug[0m] [0mMerging library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-compat-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mMerging manifest with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-compat-24.2.1] AndroidManifest.xml:17:1-27:12[0m
+[0m[[0mdebug[0m] [0muses-sdk defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging uses-sdk with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-compat-24.2.1] AndroidManifest.xml:21:5-23:58[0m
+[0m[[0mdebug[0m] [0mapplication defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging application with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-compat-24.2.1] AndroidManifest.xml:25:5-20[0m
+[0m[[0mdebug[0m] [0mMerging library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-v4-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mMerging manifest with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-v4-24.2.1] AndroidManifest.xml:17:1-27:12[0m
+[0m[[0mdebug[0m] [0muses-sdk defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging uses-sdk with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-v4-24.2.1] AndroidManifest.xml:21:5-23:54[0m
+[0m[[0mdebug[0m] [0mapplication defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging application with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-v4-24.2.1] AndroidManifest.xml:25:5-20[0m
+[0m[[0mdebug[0m] [0mMerging library manifest /home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-core-utils-24.2.1/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mMerging manifest with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-core-utils-24.2.1] AndroidManifest.xml:17:1-27:12[0m
+[0m[[0mdebug[0m] [0muses-sdk defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging uses-sdk with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-core-utils-24.2.1] AndroidManifest.xml:21:5-23:61[0m
+[0m[[0mdebug[0m] [0mapplication defined in both files...[0m
+[0m[[0mdebug[0m] [0mMerging application with lower [/home/vvasuki/.android/sbt/exploded-aars/com.android.support-support-core-utils-24.2.1] AndroidManifest.xml:25:5-20[0m
+[0m[[0mdebug[0m] [0mMerging result:SUCCESS[0m
+[0m[[0mdebug[0m] [0m1<?xml version="1.0" encoding="utf-8"?>[0m
+[0m[[0mdebug[0m] [0m2<manifest xmlns:android="http://schemas.android.com/apk/res/android"[0m
+[0m[[0mdebug[0m] [0m3    package="sanskritcode.subhashita_pratimala"[0m
+[0m[[0mdebug[0m] [0m4    android:versionCode="1"[0m
+[0m[[0mdebug[0m] [0m5    android:versionName="1.0" >[0m
+[0m[[0mdebug[0m] [0m6[0m
+[0m[[0mdebug[0m] [0m7    <uses-sdk[0m
+[0m[[0mdebug[0m] [0m8        android:minSdkVersion="14"[0m
+[0m[[0mdebug[0m] [0m9        android:targetSdkVersion="24" />[0m
+[0m[[0mdebug[0m] [0m10[0m
+[0m[[0mdebug[0m] [0m11    <uses-permission android:name="android.permission.INTERNET" />[0m
+[0m[[0mdebug[0m] [0m11-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:5:5-67[0m
+[0m[[0mdebug[0m] [0m11-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:5:22-64[0m
+[0m[[0mdebug[0m] [0m12[0m
+[0m[[0mdebug[0m] [0m13    <application[0m
+[0m[[0mdebug[0m] [0m13-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:7:5-20:19[0m
+[0m[[0mdebug[0m] [0m14        android:allowBackup="true"[0m
+[0m[[0mdebug[0m] [0m14-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:8:9-35[0m
+[0m[[0mdebug[0m] [0m15        android:icon="@mipmap/ic_launcher"[0m
+[0m[[0mdebug[0m] [0m15-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:9:9-43[0m
+[0m[[0mdebug[0m] [0m16        android:label="@string/app_name"[0m
+[0m[[0mdebug[0m] [0m16-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:10:9-41[0m
+[0m[[0mdebug[0m] [0m17        android:supportsRtl="true"[0m
+[0m[[0mdebug[0m] [0m17-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:11:9-35[0m
+[0m[[0mdebug[0m] [0m18        android:theme="@style/AppTheme" >[0m
+[0m[[0mdebug[0m] [0m18-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:12:9-40[0m
+[0m[[0mdebug[0m] [0m19        <activity android:name="sanskritcode.subhashita_pratimala.Setup" >[0m
+[0m[[0mdebug[0m] [0m19-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:13:9-19:20[0m
+[0m[[0mdebug[0m] [0m19-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:13:19-40[0m
+[0m[[0mdebug[0m] [0m20            <intent-filter>[0m
+[0m[[0mdebug[0m] [0m20-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:14:13-18:29[0m
+[0m[[0mdebug[0m] [0m21                <action android:name="android.intent.action.MAIN" />[0m
+[0m[[0mdebug[0m] [0m21-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:15:17-68[0m
+[0m[[0mdebug[0m] [0m21-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:15:25-66[0m
+[0m[[0mdebug[0m] [0m22[0m
+[0m[[0mdebug[0m] [0m23                <category android:name="android.intent.category.LAUNCHER" />[0m
+[0m[[0mdebug[0m] [0m23-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:17:17-76[0m
+[0m[[0mdebug[0m] [0m23-->/home/vvasuki/subhAShita-pratimAlA/app/src/main/AndroidManifest.xml:17:27-74[0m
+[0m[[0mdebug[0m] [0m24            </intent-filter>[0m
+[0m[[0mdebug[0m] [0m25        </activity>[0m
+[0m[[0mdebug[0m] [0m26    </application>[0m
+[0m[[0mdebug[0m] [0m27[0m
+[0m[[0mdebug[0m] [0m28</manifest>[0m
+[0m[[0mdebug[0m] [0mMerged manifest saved to /home/vvasuki/subhAShita-pratimAlA/app/target/android/intermediates/manifest/AndroidManifest.xml[0m

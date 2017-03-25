@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/subhAShita-pratimAlA.iml" filepath="$PROJECT_DIR$/subhAShita-pratimAlA.iml" />
+      <module fileurl="file://$USER_HOME$/.idea/modules/vvasuki.iml" filepath="$USER_HOME$/.idea/modules/vvasuki.iml" />
+      <module fileurl="file://$USER_HOME$/.idea/modules/vvasuki-build.iml" filepath="$USER_HOME$/.idea/modules/vvasuki-build.iml" />
     </modules>
   </component>
 </project>

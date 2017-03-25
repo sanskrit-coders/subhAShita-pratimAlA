@@ -2,3 +2,11 @@ android:run
  
 app/sbt:run
 app/android:run
+app/android:project
+app/android:package
+android:package
+app/android:package
+android:run
+app/android:run
+app/android:packagerelease
+app/android:packageRelease

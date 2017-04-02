@@ -16,4 +16,5 @@
 * I followed the instructions (https://github.com/scala-android/sbt-android/blob/master/GRADLE.md / http://scala-android.org/setup/ ) and successfully imported it to sbt.
   * I was able to run the skeleton app on my phone using the command line interface.
 * But I wanted to use an IDE. So I started following http://scala-on-android.taig.io/introduction/ and http://scala-android.org/ide_integration/ .
-  * Running sbt with this did not work.
+  * Running sbt with this did not work. (suspect version problem.) Resorted to using command line for running.
+  * In the IDE, i am unable to create scala classes at all - intellij seems to assume that this is a java project.

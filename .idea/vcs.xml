@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$USER_HOME$/DLI-tools" vcs="Git" />
-    <mapping directory="$USER_HOME$/OCR4wikisource" vcs="Git" />
     <mapping directory="$USER_HOME$/book-pub" vcs="Git" />
-    <mapping directory="$USER_HOME$/ca-textbook" vcs="Git" />
-    <mapping directory="$USER_HOME$/checkvist" vcs="Git" />
-    <mapping directory="$USER_HOME$/hindi-hunspell" vcs="Git" />
-    <mapping directory="$USER_HOME$/jananAnu" vcs="Git" />
     <mapping directory="$USER_HOME$/m17n-db" vcs="Git" />
     <mapping directory="$USER_HOME$/notes" vcs="Git" />
-    <mapping directory="$USER_HOME$/sanskrit-ocr-r0" vcs="Git" />
-    <mapping directory="$USER_HOME$/sanskrit-stats" vcs="Git" />
     <mapping directory="$USER_HOME$/sanskritnlpPHP" vcs="Git" />
     <mapping directory="$USER_HOME$/sanskritnlpjava" vcs="Git" />
-    <mapping directory="$USER_HOME$/sanskritnlppy" vcs="Git" />
     <mapping directory="$USER_HOME$/stardict" vcs="Git" />
     <mapping directory="$USER_HOME$/stardict-dictionary-updater" vcs="Git" />
     <mapping directory="$USER_HOME$/stardict-hindi" vcs="Git" />
@@ -22,11 +13,8 @@
     <mapping directory="$USER_HOME$/stardict-pali" vcs="Git" />
     <mapping directory="$USER_HOME$/stardict-sanskrit" vcs="Git" />
     <mapping directory="$USER_HOME$/stardict-telugu" vcs="Git" />
-    <mapping directory="$USER_HOME$/stardict-test" vcs="Git" />
     <mapping directory="$USER_HOME$/subhAShita-db-sanskrit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$USER_HOME$/udakashAnti-mantrArthaH" vcs="Git" />
     <mapping directory="$USER_HOME$/vishvas" vcs="Git" />
     <mapping directory="$USER_HOME$/zim-sa" vcs="Git" />
   </component>

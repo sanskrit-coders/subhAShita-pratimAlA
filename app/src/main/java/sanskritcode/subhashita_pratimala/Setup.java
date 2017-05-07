@@ -20,6 +20,8 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
+import sanskritnlp.transliteration.transliterator;
+
 /**
  * Flow: Setup::OnCreate ->  listGetter -> (user chooses lists, checkboxListener) -> buttonPressed1 ->
  * GetSubhAShitasActivity
@@ -43,6 +45,7 @@ public class Setup extends AppCompatActivity {
         topText = (TextView) findViewById(R.id.textView);
         button = (Button) findViewById(R.id.button);
         button.setText(getString(R.string.buttonWorking));
+        button.append(transliterator.transliterate("hari", "iast", "dev"));
         button.setEnabled(false);
 
         asyncHttpClient.get(Setup.index_indexorum, new TextHttpResponseHandler() {
